@@ -1,0 +1,5 @@
+[package]
+
+name = "pc"
+version = "0.0.1"
+authors = ["Ty Overby <ty@pre-alpha.com>"]
